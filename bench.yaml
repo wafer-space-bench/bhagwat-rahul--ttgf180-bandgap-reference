@@ -1,0 +1,27 @@
+source:
+  url: https://github.com/bhagwat-rahul/ttgf180-bandgap-reference
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p3
+  slot: tt_um_rahulbhagwat_gf180_bandgap_reference
+  project: GF BGR
+  size: 1x2
+  kind: analog
+  commit: 546feb920b51996e73aa061911dc831f50e021d5
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p3/tt_um_rahulbhagwat_gf180_bandgap_reference
+  branch: tapeout/tinytapeout/ttgf0p3/tt_um_rahulbhagwat_gf180_bandgap_reference
+  page: https://app.tinytapeout.com/shuttles/ttgf0p3
+generated: '2026-10-17T23:16:21Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p3/tt_um_rahulbhagwat_gf180_bandgap_reference
+- upstream/main
+- upstream/trial
